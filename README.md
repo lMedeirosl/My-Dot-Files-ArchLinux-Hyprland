@@ -1,72 +1,83 @@
 My packages
-base-devel
-bash
-git
-nano
-polkit
-xdg-utils
-wine (roda programas do windows)
-mesa (driver intel)
-gufw
-fwupd
-flatpak
-ttf-jetbrains-mono-nerd
-grim
-slurp
-evince
-ranger
-neovim
-
+<ol>
+  Outros
+<li>base-devel</li>
+<li>bash</li>
+<li>git</li>
+<li>nano</li>
+<li>polkit</li>
+<li>xdg-utils</li>
+<li>wine (roda programas do windows)</li>
+<li>mesa (driver intel)</li>
+<li>gufw</li>
+<li>fwupd</li>
+<li>flatpak</li>
+<li>ttf-jetbrains-mono-nerd</li>
+<li>grim</li>
+<li>slurp</li>
+<li>evince</li>
+<li>ranger</li>
+<li>neovim</li>
+</ol>
+<ol>
 Apps
-Discord
-firefox
-obsidian
-steam
-code (vs code)
-telegram-desktop
-gimp
 
+<li>Discord</li>
+<li>firefox</li>
+<li>obsidian</li>
+<li>steam</li>
+<li>code (vs code)</li>
+<li>telegram-desktop</li>
+<li>gimp</li>
+</ol>
+<ol>
 Fundamentais
-network manager
-unzip
-p7zip
-unrar
-tar
-noto-fonts
-noto-fonts-emoji
-bluez
-bluez-utils
-pipewire
-pipewire-audio
-pipewire-alsa
-pipewire-pulse
-wireplumber
 
+<li>network manager</li>
+<li>unzip</li>
+<li>p7zip</li>
+<li>unrar</li>
+<li>tar</li>
+<li>noto-fonts</li>
+<li>noto-fonts-emoji</li>
+<li>bluez</li>
+<li>bluez-utils</li>
+<li>pipewire</li>
+<li>pipewire-audio</li>
+<li>pipewire-alsa</li>
+<li>pipewire-pulse</li>
+<li>wireplumber</li>
+</ol>
+<ol>
 Performance
-cpupower
-zram-generator
-lm_sensors
-thermmald
 
+<li>cpupower</li>
+<li>zram-generator</li>
+<li>lm_sensors</li>
+<li>thermmald</li>
+</ol>
+<ol>
 Estetica 1
-ly (display manager)
-swaylock (lock screen)
-Hyprpaper (wallpapers)
-wofi
-kitty (terminal)
-EWW (barra de tarefas)
-wl-clipboard
-mako (notifications)
-hyprland
-dolphin (explorador de arquivos) 
-
+<li>ly (display manager)</li>
+<li>swaylock (lock screen)</li>
+<li>Hyprpaper (wallpapers)</li>
+<li>wofi</li>
+<li>kitty (terminal)</li>
+<li>EWW (barra de tarefas)</li>
+<li>wl-clipboard</li>
+<li>mako (notifications)</li>
+<li>hyprland</li>
+<li>dolphin (explorador de arquivos) </li>
+</ol>
+<ol>
 Estetica 2
-htop (tipo gerenciador de tarefas)
-btop (tipo gerenciador de tarefas 2)
-cava (visualizador de audio)
-cmatrix (codigos estetica)
-fastfetch (terminal famosinho)
-imagemagick (icone de apps mac os
-papirus-icon-theme (icone de apps mac os) 
+<li>htop (tipo gerenciador de tarefas)</li>
+<li>btop (tipo gerenciador de tarefas 2)</li>
+<li>cava (visualizador de audio)</li>
+<li>cmatrix (codigos estetica)</li>
+<li>fastfetch (terminal famosinho)</li>
+<li>imagemagick (icone de apps mac os) </li>
+<li>papirus-icon-theme (icone de apps mac os) </li>
+</ol>
 
 "awk","basename","bash","brightnessctl","cat","cp","curl","cut","date","echo","eww","fastfetch","git","grep","grim","head","hyprctl","hypridle","hyprland","hyprlock","jq","kitty","loginctl","ls","mkdir","mv","nmcli","nvim","pamixer","pidof","playerctl","ranger","rm","sh","sleep","slurp","socat","stdbuf","systemctl","uptime","wget","wpctl","xargs"
