@@ -47,6 +47,13 @@ Fundamentais
 <li>pipewire-alsa</li>
 <li>pipewire-pulse</li>
 <li>wireplumber</li>
+<li>libreoffice-fresh </li>
+<li>okular</li>
+<li>gwenview </li>
+<li>nomacs</li>
+<li>vlc </li>
+<li>mpv</li>
+
 </ol>
 <ol>
 Performance
