@@ -18,6 +18,8 @@ My packages
 <li>evince</li>
 <li>ranger</li>
 <li>neovim</li>
+ <li>qt5ct </li> 
+<li>qt6ct</li>
 </ol>
 <ol>
 Apps
