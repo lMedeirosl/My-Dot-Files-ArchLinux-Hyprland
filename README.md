@@ -70,7 +70,7 @@ Estetica 1
 <li>Hyprpaper (wallpapers)</li>
 <li>wofi</li>
 <li>kitty (terminal)</li>
-<li>EWW (barra de tarefas)</li>
+<li>eww-wayland (barra de tarefas)</li>
 <li>wl-clipboard</li>
 <li>mako (notifications)</li>
 <li>hyprland</li>
