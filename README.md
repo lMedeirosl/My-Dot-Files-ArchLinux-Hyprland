@@ -40,6 +40,7 @@ Fundamentais
 <li>p7zip</li>
 <li>unrar</li>
 <li>tar</li>
+<li>ark</li>
 <li>noto-fonts</li>
 <li>noto-fonts-emoji</li>
 <li>bluez</li>
